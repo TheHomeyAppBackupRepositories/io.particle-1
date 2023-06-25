@@ -1,0 +1,23 @@
+{
+  "name": "homey-io.particle",
+  "version": "0.9.3",
+  "description": "Connect your Particle.io devices to Homey",
+  "main": "app.js",
+  "dependencies": {
+    "particle-api-js": "^9.4.1",
+    "pretty-ms": "^8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricott/homey-io.particle.git"
+  },
+  "keywords": [
+    "particle.io"
+  ],
+  "author": "Richard Barkestam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricott/homey-io.particle/issues"
+  },
+  "homepage": "https://github.com/ricott/homey-io.particle#readme"
+}
